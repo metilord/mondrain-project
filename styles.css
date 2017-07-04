@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(200, 200, 200);
+}
+
+#canvas {
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+	height: 400px;
+	background-color: #DADADA;
+	box-shadow: 6px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+#toprow {
+	height: 290px;
+}
+
+#bigbox {
+	width: 290px;
+}
